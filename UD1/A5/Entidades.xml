@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<entidades>
+  <MenorQue>La entindad menor es lt y el carácter es &lt;</MenorQue>
+  <MayorQue>La entindad mayor es gt y el carácter es &gt;</MayorQue>
+  <ComillaDoble>La entindad comillas dobles es lt y el carácter es "</ComillaDoble>
+  <ComillaSimple>La entindad comillas simples es apos y el carácter es '</ComillaSimple>
+  <Ampersand>La entindad ampersand que es amp y el carácter es &amp;</Ampersand>
+</entidades>

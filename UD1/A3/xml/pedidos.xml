@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pedidos>
+  <pedido cod="1">
+    <fecha>01-01-2013</fecha>
+    <pu>45.5</pu>
+    <cantidad>2</cantidad>
+    <decription>Botella de Vino</decription>
+    <tipo>C</tipo>
+  </pedido>
+  <pedido cod="2">
+    <fecha>31-12-2012</fecha>
+    <pu>25</pu>
+    <cantidad>1</cantidad>
+    <descripcion>Menu Ejecutivo</descripcion>
+    <tipo>A</tipo>
+  </pedido>
+  <pedido cod="3">
+    <fecha>12-08-1998</fecha>
+    <pu>2</pu>
+    <cantidad>50</cantidad>
+    <descripcion>Botella de Agua</descripcion>
+    <tipo>D</tipo>
+  </pedido>
+</pedidos>

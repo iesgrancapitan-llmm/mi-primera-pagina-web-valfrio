@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<correos>
+  <correo>
+    <destinatario>vampirosesiten@gmail.com</destinatario>
+    <remitente>linuxerobananero@gmail.com</remitente>
+    <asunto>Ventajas de instalarle linux a una tostadora</asunto>
+    <cuerpo>
+Con la isntalación de linux en una tostadora podremos utilizar python para diseñar un programa que tueste el pan de forma automática
+</cuerpo>
+  </correo>
+  <correo>
+    <destinatario>linuxerobananero@gmail.com</destinatario>
+    <remitente>vampirosesitengmail.com</remitente>
+    <asunto>que me dices</asunto>
+    <cuerpo>
+Después de leer tu correo quedé en shock !Cuanto dinero podríamos hacer vendiendo tostadoras programadas en python con tostado del pan automático! Espero noticias tuyas para montar esta tremenda inversión. 
+</cuerpo>
+  </correo>
+</correos>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Salvador Martínez Jiménez">
+    <title>Formulario de prueba de HTML5</title>
+</head>
+<body>
+    <form method="get" action="">
+        <p><label>Nombre: <input type="text" placeholder="Salvador" autofocus required></label></p>
+        <p><label>Correo Electrónico: <input type="email" placeholder="samaim57m@iesbi.es" required></label></p>
+        <p>
+            <label for="ciuidad">Ciudad: </label>
+            <select id="ciuidad">
+                <option>Sevilla</option>
+                <option>Córdoba</option>
+                <option>Almeria</option>
+                <option>Granada</option>
+                <option>Cádiz</option>
+                <option>Huelva</option>
+                <option>Jaen</option>
+                <option>Malaga</option>
+            </select>
+        </p>
+        <p><label>URL: <input type="url" placeholder="Escribe la URL de tu página web personal"></label></p>
+        <p><label>Fecha: <input type="date"></label></p>
+        <p><label>Tiempo: <input type="time"></label></p>
+        <p><label>Fecha y hora: <input type="datetime"></label></p>
+        <p><label>Mes: <input type="month"></label></p>
+        <p><label>Semana: <input type="week"></label></p>
+        <p><label>Número (min -10, max 10): <input type="number" min="-10" max="10" step="1"></label></p>
+        <p><label>Teléfono: <input type="tel" placeholder="685441768"></label></p>
+        <p><label>Término de búsqueda: <input type="search" placeholder="Como ganar minicapis"></label></p>
+        <p><label>Color favorito: <input type="color"></label></p>
+        <p><label for="cine">Aficiones: </label>
+            <label for="cine">Cine</label><input type="checkbox" id="cine" value="1">
+            <label for="deporte">Deportes</label><input type="checkbox" id="deporte" value="1">
+        </p>
+        <p>
+            <label for="visa">Formas de pago: </label>
+            <label><input type="radio" name="pago" id="visa"><label for="visa" value="V">Visa</label>
+            <label><input type="radio" name="pago" id="americanexpress" value="A"><label for="americanexpress">AmericanExpress</label>
+            <input type="radio" name="pago" id="mastercard" value="M"><label for="mastercard">MasterCard</label>
+        </p>
+            <input type="submit">
+            <input type="reset" value="Borrar">
+        </p>
+    </form>
+</body>
+</html>

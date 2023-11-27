@@ -1,0 +1,45 @@
+body{
+    background-color: lightgrey;
+    color: darkblue;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+    border:thick double #0a0808 ;
+}
+
+td{
+    border: thick solid #0a0808;
+    text-align: center;
+    background-color: beige;
+}
+
+.bbdd{
+    background-color: lightcoral;
+}
+
+.sis{
+    background-color: lightgray;
+}
+
+.llmm{
+    background-color: lightpink;
+}
+
+.pg{
+    background-color: orange;
+}
+
+.ed{
+    background-color: lightgreen;
+}
+
+.fol{
+    background-color: lightblue;
+}
+
+.recreo{
+    background-color: white;
+}

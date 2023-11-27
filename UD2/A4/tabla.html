@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="Author" content="Salvador Martínez Jiménez">
+    <meta name="author" content="Salvador Martínez Jiménez">
     <title>Document</title>
+    <link rel="stylesheet" href="styleHorario.css">
 </head>
 <body>
     <header><h1>Mi primerita tabla</h1></header>
@@ -11,47 +12,55 @@
         <a href="../../index.html">Vuelta a la página de inicio</a>
     </nav>
     <hr>
-    <table border="1">
+    <table>
         <caption><h2>Mi horario, Primero de DAW-A</h2></caption>
         <tbody>
             <tr>
+                <td></td>
+                <td>Lunes</td>
+                <td>Martes</td>
+                <td>Miércoles</td>
+                <td>Jueves</td>
+                <td>Viernes</td>
+            </tr>
+            <tr>
                 <td>8:15</td>
-                <td rowspan="2">SIS</td>
-                <td rowspan="2">LLMM</td>
-                <td rowspan="2">ED</td>
-                <td>FOL</td>
-                <td rowspan="2">FOL</td>
+                <td rowspan="2" class="sis">SIS</td>
+                <td rowspan="2" class="llmm">LLMM</td>
+                <td rowspan="2" class="ed">ED</td>
+                <td class="fol">FOL</td>
+                <td rowspan="2" class="fol">FOL</td>
             </tr>
             <tr>
                 <td>9:15</td>
-                <td rowspan="2">SIS</td>
+                <td rowspan="2" class="sis">SIS</td>
             </tr>
             <tr>
                 <td>10:15</td>
-                <td>PG</td>
-                <td>SIS</td>
-                <td>LLMM</td>
-                <td>BBDD</td>
+                <td class="pg">PG</td>
+                <td class="sis">SIS</td>
+                <td class="llmm">LLMM</td>
+                <td class="bbdd">BBDD</td>
             </tr>
             <tr>
                 <td>11:15</td>
-                <td colspan="5">RECREO</td>
+                <td colspan="5" class="recreo">RECREO</td>
             </tr>
             <tr>
                 <td>11:45</td>
-                <td>PG</td>
-                <td>SIS</td>
-                <td>LLMM</td>
-                <td>ED</td>
-                <td>BBDD</td>
+                <td class="pg">PG</td>
+                <td class="sis">SIS</td>
+                <td class="llmm">LLMM</td>
+                <td class="ed">ED</td>
+                <td class="bbdd">BBDD</td>
             </tr>
             <tr>
                 <td>12:45</td>
-                <td rowspan="2">BBDD</td>
-                <td rowspan="2">PG</td>
-                <td rowspan="2">BBDD</td>
-                <td rowspan="2">PG</td>
-                <td rowspan="2">PG</td>
+                <td rowspan="2" class="bbdd">BBDD</td>
+                <td rowspan="2" class="pg">PG</td>
+                <td rowspan="2" class="bbdd">BBDD</td>
+                <td rowspan="2" class="pg">PG</td>
+                <td rowspan="2" class="pg">PG</td>
             </tr>
             <tr><td>13:45</td></tr>
         </tbody>

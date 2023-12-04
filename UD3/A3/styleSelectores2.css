@@ -1,0 +1,43 @@
+tr :nth-child(2){
+    background-color: red;
+}
+
+tr :nth-child(3){
+    background-color: green;
+}
+
+tr :nth-child(4){
+    background-color: blue;
+}
+
+#teal{
+    color: teal;
+}
+
+#blue{
+    color: blue;
+}
+
+#orange{
+    color: orange;
+}
+
+#purple{
+    color: purple;
+}
+
+#olive{
+    color: olive;
+}
+
+#red{
+    color: red;
+}
+
+#fuchsia{
+    color: fuchsia;
+}
+
+#green{
+    color: green;
+}

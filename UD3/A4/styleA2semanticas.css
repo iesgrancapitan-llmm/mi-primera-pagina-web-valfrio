@@ -1,0 +1,55 @@
+body {
+    display: grid;
+    width: 100%;
+    height: 100%;
+    
+    grid-template-areas: 
+        "head head head"
+        "head head head"
+        "nav nav nav"
+        "section section aside"
+        "section section aside"
+        "section section aside"
+        "section section aside"
+        "section section aside"
+        "section section aside"
+        "section section aside"
+        "section section aside"
+        "footer footer footer";
+}
+
+a {
+    margin: 2px;
+    text-align: center;
+}
+
+body > header{
+    grid-area: head;
+    text-align: center;
+}
+
+body > nav{
+    grid-area: nav;
+    padding: 10px;
+    border: double black;
+    
+}
+
+body > section{
+    grid-area: section;
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 10px;
+}
+
+body > aside{
+    grid-area: aside;
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 10%;
+}
+body > footer{
+    grid-area: footer;
+    border: dotted gray
+    ;
+}

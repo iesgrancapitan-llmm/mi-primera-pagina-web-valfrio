@@ -4,9 +4,9 @@ body {
     height: 100%;
     
     grid-template-areas: 
-        "head head head"
-        "head head head"
-        "nav nav nav"
+        "head    head     head"
+        "head    head     head"
+        "nav     nav      nav"
         "section section aside"
         "section section aside"
         "section section aside"
@@ -15,7 +15,7 @@ body {
         "section section aside"
         "section section aside"
         "section section aside"
-        "footer footer footer";
+        "footer  footer  footer";
 }
 
 a {
@@ -24,6 +24,7 @@ a {
 }
 
 body > header{
+    background-color: aqua;
     grid-area: head;
     text-align: center;
 }
@@ -32,6 +33,7 @@ body > nav{
     grid-area: nav;
     padding: 10px;
     border: double black;
+    background-color: grey;
     
 }
 
@@ -40,6 +42,7 @@ body > section{
     text-align: justify;
     text-justify: inter-word;
     padding: 10px;
+    background-color: brown;
 }
 
 body > aside{
@@ -47,9 +50,11 @@ body > aside{
     text-align: justify;
     text-justify: inter-word;
     padding: 10%;
+    background-color: blue;
 }
 body > footer{
     grid-area: footer;
-    border: dotted gray
-    ;
+    border: dotted gray;
+    background-color: aquamarine;
+
 }

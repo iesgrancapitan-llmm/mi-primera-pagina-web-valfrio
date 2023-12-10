@@ -1,0 +1,41 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: lightgreen;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+h1 {
+    width: auto;
+    height: auto; 
+    padding: 1em 2em;
+    border: 1em solid darkgreen;
+    margin: 1em;
+    background-color: lightseagreen;
+}
+
+p {
+    background-color: grey;
+    padding: 3px;
+}
+
+span {
+    color: blue;
+    width: 3em;
+    height: 3em;
+    padding: 2rem;
+    margin: 3rem;
+    background-color: pink;
+}
+
+#apellidos {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    padding: 1px;
+    margin: 1px;
+    background-color: rgb(235, 117, 117);
+}

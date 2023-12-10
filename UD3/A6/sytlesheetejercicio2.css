@@ -1,0 +1,31 @@
+h1 {
+    border: 2px solid #00F;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 10px;
+}
+
+h2 {
+    border: 2px solid #AAA;
+    padding: 5px;
+    margin-bottom: 15px;
+    margin-top: 0 px;
+}
+
+ul {
+    border: 2px solid #0F0;
+}
+
+body {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+li {
+    margin: 15px;
+}
+
+body {
+    text-align: justify;
+    text-justify: inter-word;
+}

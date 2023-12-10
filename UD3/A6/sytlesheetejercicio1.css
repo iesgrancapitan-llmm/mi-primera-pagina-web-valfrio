@@ -1,0 +1,16 @@
+h1 {
+    border-bottom: 2px solid #00F;
+}
+
+h2 {
+    border: 2px solid #AAA;
+}
+
+ul:first-of-type{
+    border-top: 2px dotted #F00;
+    border-bottom: 2px dotted #F00;
+}
+
+ul:last-of-type{
+    border: 2px dotted #0F0;
+}

@@ -6,7 +6,7 @@ form {
 }
 
 p {
-    padding: 1px;
+    padding: 15
 }
 
 nav {
@@ -15,4 +15,9 @@ nav {
     padding: 10px;
     border-bottom: 3px solid gray;
     margin: 20px;
+}
+
+label {
+    display: block;
+
 }

@@ -1,13 +1,19 @@
 body {
+    background-color: lightblue;
     display: grid;
     grid-template-areas:
     "cabecera  cabecera    cabecera    cabecera    cabecera    cabecera"
     "barra-nav principal   principal   principal   principal   principal"
     "barra-nav pie         pie         pie         pie         pie" 
     ;
-    padding: 10px;
-    border: thick ;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
     height: 100%;
+}
+
+nav, header, footer {
+    background-color: lightblue;
+    padding: 20px;
 }
 
 h1 {
@@ -24,13 +30,11 @@ section {
     padding-bottom: 10px;
     padding-top: 20px;
     grid-area: principal;
-    background-color: lightblue;
 }
 
 table {
     width: 100%;
     text-align: center;
-    border-collapse: collapse;
 }
 
 thead td {
@@ -39,9 +43,10 @@ thead td {
 
 tbody td {
     border: 2px solid green;
+
 }
 
-#nombre {
+.nombre {
     color: green;
     font-style: italic;
 }
@@ -51,7 +56,6 @@ header {
     text-align: center;
     padding-bottom: 20px;
     border: 4px solid blue;
-    background-color: lightblue;
 }
 
 nav {
@@ -59,7 +63,6 @@ nav {
     border-left: 4px solid blue;
     border-bottom: 4px solid blue;
     text-align: center;
-    background-color: lightblue;
 }
 
 footer {
@@ -71,5 +74,4 @@ footer {
     border-bottom: 4px solid    blue;
     border-left: 4px solid    blue;
     border-right: 4px solid blue;
-    background-color: lightblue;    
 }

@@ -1,0 +1,75 @@
+body {
+    display: grid;
+    grid-template-areas:
+    "cabecera  cabecera    cabecera    cabecera    cabecera    cabecera"
+    "barra-nav principal   principal   principal   principal   principal"
+    "barra-nav pie         pie         pie         pie         pie" 
+    ;
+    padding: 10px;
+    border: thick ;
+    height: 100%;
+}
+
+h1 {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+}
+
+section {
+    border-left: 4px solid blue;
+    border-right: 4px solid blue;
+    border-bottom: 4px solid blue;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    grid-area: principal;
+    background-color: lightblue;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+thead td {
+    font-weight: bold;
+}
+
+tbody td {
+    border: 2px solid green;
+}
+
+#nombre {
+    color: green;
+    font-style: italic;
+}
+
+header {
+    grid-area: cabecera;
+    text-align: center;
+    padding-bottom: 20px;
+    border: 4px solid blue;
+    background-color: lightblue;
+}
+
+nav {
+    grid-area: barra-nav;
+    border-left: 4px solid blue;
+    border-bottom: 4px solid blue;
+    text-align: center;
+    background-color: lightblue;
+}
+
+footer {
+    grid-area: pie;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 4px solid    blue;
+    border-left: 4px solid    blue;
+    border-right: 4px solid blue;
+    background-color: lightblue;    
+}

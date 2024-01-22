@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss>
+  <channel>
+    <title>
+      Noticias sobre inteligencia artificial y otras tareas sobre lenguajes de marcas
+     </title>
+    <link>
+        https://shiny-carnival-wo5619l.pages.github.io/
+      </link>
+    <description>
+        Estudiante de primero de DAW que sube a esta página web sus distintas tareas relacionadas con diversos temas.
+      </description>
+    <item>
+      <title>
+        Curso sobre IA generativa impartido en Google Cloud
+     </title>
+      <link>
+        https://www.cloudskillsboost.google/course_templates/536?locale=es
+      </link>
+      <description>
+        Google Cloud Skill Boost provee un curso básico sobre inteligencía artificial que nos ayuda a iniciarnos 
+        en el tema
+      </description>
+    </item>
+    <item>
+      <title>
+        Como funciona y que es Micorsoft Copilot
+     </title>
+      <link>
+        https://www.xataka.com/basics/microsoft-copilot-que-como-funciona-este-chat-inteligencia-artificial
+      </link>
+      <description>
+        El sistema de inteligencia artificial de Microsoft y OpenAI Copilot es una novedosa creación que está controlada por el chat. 
+        En este artículo te explicaremos que es exactamente y como funciona esta alternativa a ChatGPT
+      </description>
+    </item>
+    <item>
+      <title>
+        Mejores inteligencias artificiales para el desarrollo
+     </title>
+      <link>
+        https://www.unite.ai/es/mejores-generadores-de-c%C3%B3digo-ai/
+      </link>
+      <description>
+        Desde su llegada la IA ha estado revolucionando todos los ambitos por los que es aplicada. Como podemos imaginar, el
+        desarrollo no es una excepción. Debido a esto muchas IA han ido adaptandose a a las necesidades de los desarrolladores.
+        Por eso hoy os traemos 10 IA usadas para el desarrollo. 
+      </description>
+    </item>
+  </channel>
+</rss>

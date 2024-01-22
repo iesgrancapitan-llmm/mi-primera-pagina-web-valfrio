@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Artificial Intelligence News -- ScienceDaily</title>
+    <link>https://www.sciencedaily.com/news/computers_math/artificial_intelligence/</link>
+    <description>Artificial Intelligence News. Everything on AI including futuristic robots with artificial intelligence, computer models of human intelligence and more.</description>
+    <language>en-us</language>
+    <pubDate>Tue, 16 Jan 2024 22:51:58 EST</pubDate>
+    <lastBuildDate>Tue, 16 Jan 2024 22:51:58 EST</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title>Artificial Intelligence News -- ScienceDaily</title>
+      <url>https://www.sciencedaily.com/images/scidaily-logo-rss.png</url>
+      <link>https://www.sciencedaily.com/news/computers_math/artificial_intelligence/</link>
+      <description>For more science news, visit ScienceDaily.</description>
+    </image>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" href="https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" type="application/rss+xml"/>
+    <item>
+      <title>'Smart glove' can boost hand mobility of stroke patients</title>
+      <link>https://www.sciencedaily.com/releases/2024/01/240116131818.htm</link>
+      <description>This month, a group of stroke survivors in British Columbia will test a new technology designed to aid their recovery, and ultimately restore use of their limbs and hands. Participants will wear a new groundbreaking 'smart glove' capable of tracking their hand and finger movements during rehabilitation exercises.</description>
+      <pubDate>Tue, 16 Jan 2024 13:18:18 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2024/01/240116131818.htm</guid>
+    </item>
+    <item>
+      <title>Researchers developing AI to make the internet more accessible</title>
+      <link>https://www.sciencedaily.com/releases/2024/01/240109170521.htm</link>
+      <description>In an effort to make the internet more accessible for people with disabilities, researchers have begun developing an artificial intelligence agent that could complete complex tasks on any website using simple language commands.</description>
+      <pubDate>Tue, 09 Jan 2024 17:05:21 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2024/01/240109170521.htm</guid>
+    </item>
+    <item>
+      <title>New soft robots roll like tires, spin like tops and orbit like moons</title>
+      <link>https://www.sciencedaily.com/releases/2024/01/240108153135.htm</link>
+      <description>Researchers have developed a new soft robot design that engages in three simultaneous behaviors: rolling forward, spinning like a record, and following a path that orbits around a central point. The device, which operates without human or computer control, holds promise for developing soft robotic devices that can be used to navigate and map unknown environments.</description>
+      <pubDate>Mon, 08 Jan 2024 15:31:35 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2024/01/240108153135.htm</guid>
+    </item>
+    <item>
+      <title>AI alters middle managers' work</title>
+      <link>https://www.sciencedaily.com/releases/2023/12/231221012822.htm</link>
+      <description>The introduction of artificial intelligence is a significant part of the digital transformation bringing challenges and changes to the job descriptions among management. A study shows that integrating artificial intelligence systems into service teams increases demands imposed on middle management in the financial services field. In that sector, the advent of artificial intelligence has been fast and AI applications can implement a large proportion of routine work that was previously done by people. Many professionals in the service sector work in teams which include both humans and artificial intelligence systems, which sets new expectations on interactions, human relations, and leadership.</description>
+      <pubDate>Thu, 21 Dec 2023 01:28:22 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/12/231221012822.htm</guid>
+    </item>
+    <item>
+      <title>Meet 'Coscientist,' your AI lab partner</title>
+      <link>https://www.sciencedaily.com/releases/2023/12/231221012729.htm</link>
+      <description>An artificial intelligence-driven system has autonomously learned about certain Nobel Prize-winning chemical reactions and designed a successful laboratory procedure to make them. The AI did so in just a few minutes and correctly on its first attempt. According to the authors, this is the first time that a non-organic intelligence planned, designed and executed this complex reaction that was invented by humans.</description>
+      <pubDate>Thu, 21 Dec 2023 01:27:29 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/12/231221012729.htm</guid>
+    </item>
+    <item>
+      <title>Artificial intelligence can predict events in people's lives</title>
+      <link>https://www.sciencedaily.com/releases/2023/12/231218125850.htm</link>
+      <description>Artificial intelligence can analyze registry data on people's residence, education, income, health and working conditions and, with high accuracy, predict life events.</description>
+      <pubDate>Mon, 18 Dec 2023 12:58:50 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/12/231218125850.htm</guid>
+    </item>
+    <item>
+      <title>AI chatbot shows potential as diagnostic partner</title>
+      <link>https://www.sciencedaily.com/releases/2023/12/231211114509.htm</link>
+      <description>Physician-investigators compared a chatbot's probabilistic reasoning to that of human clinicians. The findings suggest that artificial intelligence could serve as useful clinical decision support tools for physicians.</description>
+      <pubDate>Mon, 11 Dec 2023 11:45:09 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/12/231211114509.htm</guid>
+    </item>
+    <item>
+      <title>Exposure to soft robots decreases human fears about working with them</title>
+      <link>https://www.sciencedaily.com/releases/2023/12/231205114751.htm</link>
+      <description>Seeing robots made with soft, flexible parts in action appears to lower people's anxiety about working with them or even being replaced by them. A study found that watching videos of a soft robot working with a person at picking and placing tasks lowered the viewers' safety concerns and feelings of job insecurity. This was true even when the soft robot was shown working in close proximity to the person. This finding shows soft robots hold a potential psychological advantage over rigid robots made of metal or other hard materials.</description>
+      <pubDate>Tue, 05 Dec 2023 11:47:51 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/12/231205114751.htm</guid>
+    </item>
+    <item>
+      <title>AI networks are more vulnerable to malicious attacks than previously thought</title>
+      <link>https://www.sciencedaily.com/releases/2023/12/231204135128.htm</link>
+      <description>Artificial intelligence tools hold promise for applications ranging from autonomous vehicles to the interpretation of medical images. However, a new study finds these AI tools are more vulnerable than previously thought to targeted attacks that effectively force AI systems to make bad decisions.</description>
+      <pubDate>Mon, 04 Dec 2023 13:51:28 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/12/231204135128.htm</guid>
+    </item>
+    <item>
+      <title>A color-based sensor to emulate skin's sensitivity</title>
+      <link>https://www.sciencedaily.com/releases/2023/12/231201173202.htm</link>
+      <description>In a step toward more autonomous soft robots and wearable technologies, researchers have created a device that uses color to simultaneously sense multiple mechanical and temperature stimuli.</description>
+      <pubDate>Fri, 01 Dec 2023 17:32:02 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/12/231201173202.htm</guid>
+    </item>
+    <item>
+      <title>Brainstorming with a bot</title>
+      <link>https://www.sciencedaily.com/releases/2023/12/231201123612.htm</link>
+      <description>Electronic nanomaterials experts have imagined how recent advances in artificial intelligence (AI) and machine learning (ML) could aid scientific brainstorming and ideation. To accomplish this, they have developed a chatbot with knowledge in the kinds of science he's been engaged in.</description>
+      <pubDate>Fri, 01 Dec 2023 12:36:12 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/12/231201123612.htm</guid>
+    </item>
+    <item>
+      <title>Scientists use A.I.-generated images to map visual functions in the brain</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231130145431.htm</link>
+      <description>Researchers have demonstrated the use of AI-selected natural images and AI-generated synthetic images as neuroscientific tools for probing the visual processing areas of the brain. The goal is to apply a data-driven approach to understand how vision is organized while potentially removing biases that may arise when looking at responses to a more limited set of researcher-selected images.</description>
+      <pubDate>Thu, 30 Nov 2023 14:54:31 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231130145431.htm</guid>
+    </item>
+    <item>
+      <title>2D material reshapes 3D electronics for AI hardware</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231130145423.htm</link>
+      <description>Researchers demonstrated monolithic 3D integration of layered 2D material into novel processing hardware for artificial intelligence computing. The new approach provides a material-level solution for fully integrating many functions into a single, small electronic chip -- and paves the way for advanced AI computing. </description>
+      <pubDate>Thu, 30 Nov 2023 14:54:23 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231130145423.htm</guid>
+    </item>
+    <item>
+      <title>How do you make a robot smarter? Program it to know what it doesn't know</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231128172842.htm</link>
+      <description>Engineers have come up with a new way to teach robots to know when they don't know. The technique involves quantifying the fuzziness of human language and using that measurement to tell robots when to ask for further directions. Telling a robot to pick up a bowl from a table with only one bowl is fairly clear. But telling a robot to pick up a bowl when there are five bowls on the table generates a much higher degree of uncertainty -- and triggers the robot to ask for clarification.</description>
+      <pubDate>Tue, 28 Nov 2023 17:28:42 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231128172842.htm</guid>
+    </item>
+    <item>
+      <title>Researchers engineer a material that can perform different tasks depending on temperature</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231128132308.htm</link>
+      <description>Researchers report that they have developed a new composite material designed to change behaviors depending on temperature in order to perform specific tasks. These materials are poised to be part of the next generation of autonomous robotics that will interact with the environment.</description>
+      <pubDate>Tue, 28 Nov 2023 13:23:08 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231128132308.htm</guid>
+    </item>
+    <item>
+      <title>Defending your voice against deepfakes</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231127180707.htm</link>
+      <description>Computer scientists have developed AntiFake, a tool to protect voice recordings from unauthorized speech synthesis.</description>
+      <pubDate>Mon, 27 Nov 2023 18:07:07 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231127180707.htm</guid>
+    </item>
+    <item>
+      <title>New method uses crowdsourced feedback to help train robots</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231127132237.htm</link>
+      <description>A new technique enables an AI agent to be guided by data crowdsourced asynchronously from nonexpert human users as it learns to complete a task through reinforcement learning. The method trains the robot faster and better than other approaches.</description>
+      <pubDate>Mon, 27 Nov 2023 13:22:37 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231127132237.htm</guid>
+    </item>
+    <item>
+      <title>How we play together</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231121175256.htm</link>
+      <description>Psychologists are using EEG to research what games reveal about our ability to cooperate.</description>
+      <pubDate>Tue, 21 Nov 2023 17:52:56 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231121175256.htm</guid>
+    </item>
+    <item>
+      <title>AI can 'lie and BS' like its maker, but still not intelligent like humans</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231120170942.htm</link>
+      <description>A researcher contends that the understanding of AI is muddled by linguistics: That while indeed intelligent, AI cannot be intelligent in the way that humans are, even though 'it can lie and BS like its maker.'</description>
+      <pubDate>Mon, 20 Nov 2023 17:09:42 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231120170942.htm</guid>
+    </item>
+    <item>
+      <title>Creativity in the age of generative AI: A new era of creative partnerships</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231120170939.htm</link>
+      <description>Generative AI (e.g., ChatGPT) has propelled AI into the mainstream, raising concerns about job displacement and creative work. Experts now emphasize a need to focus on 'co-creativity,' the human-AI interaction instead. Extensive research is needed for comprehending co-creativity which is crucial for the future development of AI.</description>
+      <pubDate>Mon, 20 Nov 2023 17:09:39 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231120170939.htm</guid>
+    </item>
+    <item>
+      <title>AI system self-organizes to develop features of brains of complex organisms</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231120124246.htm</link>
+      <description>Scientists have shown that placing physical constraints on an artificially-intelligent system -- in much the same way that the human brain has to develop and operate within physical and biological constraints -- allows it to develop features of the brains of complex organisms in order to solve tasks.</description>
+      <pubDate>Mon, 20 Nov 2023 12:42:46 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231120124246.htm</guid>
+    </item>
+    <item>
+      <title>AI: Researchers develop automatic text recognition for ancient cuneiform tablets</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231120124148.htm</link>
+      <description>A new artificial intelligence (AI) software is now able to decipher difficult-to-read texts on cuneiform tablets. Instead of photos, the AI system uses 3D models of the tablets, delivering significantly more reliable results than previous methods. This makes it possible to search through the contents of multiple tablets to compare them with each other. It also paves the way for entirely new research questions.  </description>
+      <pubDate>Mon, 20 Nov 2023 12:41:48 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231120124148.htm</guid>
+    </item>
+    <item>
+      <title>The mind's eye of a neural network system</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231116141058.htm</link>
+      <description>A new tool, based on topology, makes finding the areas where neural networks are confused as simple as spotting mountaintops from an airplane. The ability to spot and address those areas of confusion should enable more confident application of neural networks in high-stakes decision scenarios or image prediction tasks like healthcare and research.</description>
+      <pubDate>Thu, 16 Nov 2023 14:10:58 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231116141058.htm</guid>
+    </item>
+    <item>
+      <title>Realistic talking faces created from only an audio clip and a person's photo</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231116140827.htm</link>
+      <description>A team of researchers has developed a computer program that creates realistic videos that reflect the facial expressions and head movements of the person speaking, only requiring an audio clip and a face photo.   DIverse yet Realistic Facial Animations, or DIRFA, is an artificial intelligence-based program that takes audio and a photo and produces a 3D video showing the person demonstrating realistic and consistent facial animations synchronised with the spoken audio (see videos).</description>
+      <pubDate>Thu, 16 Nov 2023 14:08:27 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231116140827.htm</guid>
+    </item>
+    <item>
+      <title>Use it or lose it: New robotic system assesses mobility after stroke</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231116140354.htm</link>
+      <description>Stroke is a leading cause of long-term disability worldwide. Each year more than 15 million people worldwide have strokes, and three-quarters of stroke survivors will experience impairment, weakness and paralysis in their arms and hands. Many stroke survivors rely on their stronger arm to complete daily tasks, from carrying groceries to combing their hair, even when the weaker arm has the potential to improve.</description>
+      <pubDate>Thu, 16 Nov 2023 14:03:54 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231116140354.htm</guid>
+    </item>
+    <item>
+      <title>This 3D printer can watch itself fabricate objects</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231115113339.htm</link>
+      <description>Engineers have developed a high-throughput, multimaterial 3D inkjet printer that uses computer vision to rapidly and automatically control the amount of material being deposited during the printing process in real time. This enables the use of a wide range of materials for fabrication.</description>
+      <pubDate>Wed, 15 Nov 2023 11:33:39 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231115113339.htm</guid>
+    </item>
+    <item>
+      <title>Individual back training machine developed</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231114143740.htm</link>
+      <description>18 percent of reported sick leave relates to musculoskeletal ailments, in particular back-related disorders. The GyroTrainer is an intelligent training device that resembles a balance board. It uses artificial intelligence to adjust the difficulty level to the individual patient's current ability.</description>
+      <pubDate>Tue, 14 Nov 2023 14:37:40 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231114143740.htm</guid>
+    </item>
+    <item>
+      <title>Engineers are on a failure-finding mission</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231109121552.htm</link>
+      <description>Engineers developed a technique to quickly identify a range of potential failures in a system before they are deployed in the real world.</description>
+      <pubDate>Thu, 09 Nov 2023 12:15:52 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231109121552.htm</guid>
+    </item>
+    <item>
+      <title>How human faces can teach androids to smile</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231109121541.htm</link>
+      <description>A research team used 125 physical markers to understand the detailed mechanics of 44 different human facial motions. The aim was to better understand how to convey emotions with artificial faces. Beyond helping with the design of robots and androids, this research can also benefit computer graphics, facial recognition, and medical diagnoses.</description>
+      <pubDate>Thu, 09 Nov 2023 12:15:41 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231109121541.htm</guid>
+    </item>
+    <item>
+      <title>Machine learning gives users 'superhuman' ability to open and control tools in virtual reality</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231107131923.htm</link>
+      <description>Researchers have developed a virtual reality application where a range of 3D modelling tools can be opened and controlled using just the movement of a user's hand.</description>
+      <pubDate>Tue, 07 Nov 2023 13:19:23 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231107131923.htm</guid>
+    </item>
+    <item>
+      <title>Neuromorphic computing will be great... if hardware can handle the workload</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231106202950.htm</link>
+      <description>Scientists believe they may have discovered a way to rework the hardware of AI. By mimicking the synapses of the human brain.</description>
+      <pubDate>Mon, 06 Nov 2023 20:29:50 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231106202950.htm</guid>
+    </item>
+    <item>
+      <title>450-million-year-old organism finds new life in Softbotics</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231106202936.htm</link>
+      <description>Researchers have used fossil evidence to engineer a soft robotic replica of pleurocystitids, a marine organism that existed nearly 450 million years ago and is believed to be one of the first echinoderms capable of movement using a muscular stem.</description>
+      <pubDate>Mon, 06 Nov 2023 20:29:36 EST</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231106202936.htm</guid>
+    </item>
+    <item>
+      <title>AI should be better understood and managed -- new research warns</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231102135100.htm</link>
+      <description>Artificial Intelligence (AI) and algorithms can and are being used to radicalize, polarize, and spread racism and political instability, says an academic. An expert argues that AI and algorithms are not just tools deployed by national security agencies to prevent malicious activity online, but can be contributors to polarization, radicalism and political violence -- posing a threat to national security.</description>
+      <pubDate>Thu, 02 Nov 2023 13:51:00 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231102135100.htm</guid>
+    </item>
+    <item>
+      <title>Nanowire 'brain' network learns and remembers 'on the fly'</title>
+      <link>https://www.sciencedaily.com/releases/2023/11/231101134804.htm</link>
+      <description>Like a collection of 'Pick Up Sticks', this neural network has passed a critical step for developing machine intelligence. For the first time, a physical neural network has successfully been shown to learn and remember 'on the fly', in a way inspired by and similar to how the brain's neurons work. The result opens a pathway for developing efficient and low-energy machine intelligence for more complex, real-world learning and memory tasks.</description>
+      <pubDate>Wed, 01 Nov 2023 13:48:04 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/11/231101134804.htm</guid>
+    </item>
+    <item>
+      <title>The brain may learn about the world the same way some computational models do</title>
+      <link>https://www.sciencedaily.com/releases/2023/10/231030194459.htm</link>
+      <description>New studies support the idea that the brain uses a process similar to a machine-learning approach known as 'self-supervised learning.' This type of machine learning allows computational models to learn about visual scenes based solely on the similarities and differences between them, with no labels or other information.</description>
+      <pubDate>Mon, 30 Oct 2023 19:44:59 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/10/231030194459.htm</guid>
+    </item>
+    <item>
+      <title>Robot stand-in mimics movements in VR</title>
+      <link>https://www.sciencedaily.com/releases/2023/10/231027110752.htm</link>
+      <description>Researchers have developed a souped-up telepresence robot that responds automatically and in real-time to a remote user's movements and gestures made in virtual reality.</description>
+      <pubDate>Fri, 27 Oct 2023 11:07:52 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/10/231027110752.htm</guid>
+    </item>
+    <item>
+      <title>Engineers develop breakthrough 'robot skin'</title>
+      <link>https://www.sciencedaily.com/releases/2023/10/231026131623.htm</link>
+      <description>Smart, stretchable and highly sensitive, a new soft sensor opens the door to a wide range of applications in robotics and prosthetics. When applied to the surface of a prosthetic arm or a robotic limb, the sensor skin provides touch sensitivity and dexterity, enabling tasks that can be difficult for machines such as picking up a piece of soft fruit. The sensor is also soft to the touch, like human skin, which helps make human interactions safer and more lifelike. </description>
+      <pubDate>Thu, 26 Oct 2023 13:16:23 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/10/231026131623.htm</guid>
+    </item>
+    <item>
+      <title>Vision via sound for the blind</title>
+      <link>https://www.sciencedaily.com/releases/2023/10/231025223433.htm</link>
+      <description>Smart glasses that use a technique similar to a bat's echolocation could help blind and low-vision people navigate their surroundings, according to researchers. </description>
+      <pubDate>Wed, 25 Oct 2023 22:34:33 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/10/231025223433.htm</guid>
+    </item>
+    <item>
+      <title>Can AI grasp related concepts after learning only one?</title>
+      <link>https://www.sciencedaily.com/releases/2023/10/231025163006.htm</link>
+      <description>Researchers have now developed a technique that advances the ability of these tools, such as ChatGPT, to make compositional generalizations. This technique, Meta-learning for Compositionality, outperforms existing approaches and is on par with, and in some cases better than, human performance.</description>
+      <pubDate>Wed, 25 Oct 2023 16:30:06 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/10/231025163006.htm</guid>
+    </item>
+    <item>
+      <title>Plant-based materials give 'life' to tiny soft robots</title>
+      <link>https://www.sciencedaily.com/releases/2023/10/231023124412.htm</link>
+      <description>A team of researchers has created smart, advanced materials that will be the building blocks for a future generation of soft medical microrobots. These tiny robots have the potential to conduct medical procedures, such as biopsy, and cell and tissue transport, in a minimally invasive fashion.</description>
+      <pubDate>Mon, 23 Oct 2023 12:44:12 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/10/231023124412.htm</guid>
+    </item>
+    <item>
+      <title>Adaptive optical neural network connects thousands of artificial neurons</title>
+      <link>https://www.sciencedaily.com/releases/2023/10/231023124404.htm</link>
+      <description>Physicists working with computer specialists have developed a so-called event-based architecture, using photonic processors. In a similar way to the brain, this makes possible the continuous adaptation of the connections within the neural network.</description>
+      <pubDate>Mon, 23 Oct 2023 12:44:04 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/10/231023124404.htm</guid>
+    </item>
+    <item>
+      <title>New cyber algorithm shuts down malicious robotic attack</title>
+      <link>https://www.sciencedaily.com/releases/2023/10/231011202416.htm</link>
+      <description>Researchers have designed an algorithm that can intercept a man-in-the-middle (MitM) cyberattack on an unmanned military robot and shut it down in seconds. The algorithm, tested in real time, achieved a 99% success rate.</description>
+      <pubDate>Wed, 11 Oct 2023 20:24:16 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/10/231011202416.htm</guid>
+    </item>
+    <item>
+      <title>AI language models could help diagnose schizophrenia</title>
+      <link>https://www.sciencedaily.com/releases/2023/10/231009191615.htm</link>
+      <description>Scientists have developed new tools, based on AI language models, that can characterize subtle signatures in the speech of patients diagnosed with schizophrenia.</description>
+      <pubDate>Mon, 09 Oct 2023 19:16:15 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/10/231009191615.htm</guid>
+    </item>
+    <item>
+      <title>Birders and AI push bird conservation to the next level</title>
+      <link>https://www.sciencedaily.com/releases/2023/10/231004132419.htm</link>
+      <description>Big data and artificial intelligence (AI) are being used to model hidden patterns in nature, not just for one bird species, but for entire ecological communities across continents. And the models follow each species’ full annual life cycle, from breeding to fall migration to non-breeding grounds, and back north again during spring migration.</description>
+      <pubDate>Wed, 04 Oct 2023 13:24:19 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/10/231004132419.htm</guid>
+    </item>
+    <item>
+      <title>Could future AI crave a favorite food?</title>
+      <link>https://www.sciencedaily.com/releases/2023/10/231004132416.htm</link>
+      <description>Can artificial intelligence (AI) get hungry? Develop a taste for certain foods? Not yet, but a team of researchers is developing a novel electronic tongue that mimics how taste influences what we eat based on both needs and wants, providing a possible blueprint for AI that processes information more like a human being.</description>
+      <pubDate>Wed, 04 Oct 2023 13:24:16 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/10/231004132416.htm</guid>
+    </item>
+    <item>
+      <title>These robots helped explain how insects evolved two distinct strategies for flight</title>
+      <link>https://www.sciencedaily.com/releases/2023/10/231004132400.htm</link>
+      <description>Robots helped achieve a major breakthrough in our understanding of how insect flight evolved. The study is a result of a six-year long collaboration between roboticists and biophysicists.</description>
+      <pubDate>Wed, 04 Oct 2023 13:24:00 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/10/231004132400.htm</guid>
+    </item>
+    <item>
+      <title>Insect cyborgs: Towards precision movement</title>
+      <link>https://www.sciencedaily.com/releases/2023/10/231004105145.htm</link>
+      <description>Insect cyborgs may sound like something straight out of the movies, but hybrid insect computer robots, as they are scientifically called, could pioneer a new future for robotics. It involves using electrical stimuli to control an insect’s movement. Now, an international research group has conducted a study on the relationship between electrical stimulation in stick insects' leg muscles and the resulting torque (the twisting force that causes the leg to move). </description>
+      <pubDate>Wed, 04 Oct 2023 10:51:45 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/10/231004105145.htm</guid>
+    </item>
+    <item>
+      <title>Instant evolution: AI designs new robot from scratch in seconds</title>
+      <link>https://www.sciencedaily.com/releases/2023/10/231003173425.htm</link>
+      <description>Researchers developed the first AI to date that can intelligently design robots from scratch by compressing billions of years of evolution into mere seconds. It's not only fast but also runs on a lightweight computer and designs wholly novel structures from scratch — without human-labeled, bias-filled datasets.</description>
+      <pubDate>Tue, 03 Oct 2023 17:34:25 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/10/231003173425.htm</guid>
+    </item>
+    <item>
+      <title>Sperm swimming is caused by the same patterns that are believed to dictate zebra stripes</title>
+      <link>https://www.sciencedaily.com/releases/2023/09/230927155522.htm</link>
+      <description>Patterns of chemical interactions are thought to create patterns in nature such as stripes and spots. This new study shows that the mathematical basis of these patterns also governs how sperm tail moves.</description>
+      <pubDate>Wed, 27 Sep 2023 15:55:22 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/09/230927155522.htm</guid>
+    </item>
+    <item>
+      <title>Unleashing the power of AI to track animal behavior</title>
+      <link>https://www.sciencedaily.com/releases/2023/09/230927003223.htm</link>
+      <description>Scientists have created a non-invasive movement tracking method called GlowTrack that uses fluorescent dye markers to train artificial intelligence to capture movement, from a single mouse digit to the human hand. GlowTrack has applications spanning biology, robotics, medicine, and beyond.</description>
+      <pubDate>Wed, 27 Sep 2023 00:32:23 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/09/230927003223.htm</guid>
+    </item>
+    <item>
+      <title>Efficient training for artificial intelligence</title>
+      <link>https://www.sciencedaily.com/releases/2023/09/230922110755.htm</link>
+      <description>New physics-based self-learning machines could replace the current artificial neural networks and save energy.</description>
+      <pubDate>Fri, 22 Sep 2023 11:07:55 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/09/230922110755.htm</guid>
+    </item>
+    <item>
+      <title>Shape-changing smart speaker lets users mute different areas of a room</title>
+      <link>https://www.sciencedaily.com/releases/2023/09/230921105720.htm</link>
+      <description>A team has developed a shape-changing smart speaker, which uses self-deploying microphones to divide rooms into speech zones and track the positions of individual speakers.</description>
+      <pubDate>Thu, 21 Sep 2023 10:57:20 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/09/230921105720.htm</guid>
+    </item>
+    <item>
+      <title>Scientists successfully maneuver robot through living lung tissue</title>
+      <link>https://www.sciencedaily.com/releases/2023/09/230921105658.htm</link>
+      <description>Scientists have shown that their steerable lung robot can autonomously maneuver the intricacies of the lung, while avoiding important lung structures.</description>
+      <pubDate>Thu, 21 Sep 2023 10:56:58 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/09/230921105658.htm</guid>
+    </item>
+    <item>
+      <title>Combustion powers bug-sized robots to leap, lift and race</title>
+      <link>https://www.sciencedaily.com/releases/2023/09/230919154915.htm</link>
+      <description>Researchers combined soft microactuators with high-energy-density chemical fuel to create an insect-scale quadrupedal robot that is powered by combustion and can outrace, outlift, outflex and outleap its electric-driven competitors.</description>
+      <pubDate>Tue, 19 Sep 2023 15:49:15 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/09/230919154915.htm</guid>
+    </item>
+    <item>
+      <title>Assessing unintended consequences in AI-based neurosurgical training</title>
+      <link>https://www.sciencedaily.com/releases/2023/09/230919154827.htm</link>
+      <description>A new study shows that human instruction is still necessary to detect and compensate for unintended, and sometimes negative, changes in neurosurgeon behavior after virtual reality AI training. This finding has implications for other fields of training.</description>
+      <pubDate>Tue, 19 Sep 2023 15:48:27 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/09/230919154827.htm</guid>
+    </item>
+    <item>
+      <title>Groundbreaking soft valve technology enabling sensing and control integration in soft robots</title>
+      <link>https://www.sciencedaily.com/releases/2023/09/230915105609.htm</link>
+      <description>A research team has developed groundbreaking 'soft valve' technology -- an all-in-one solution that integrates sensors and control valves while maintaining complete softness.</description>
+      <pubDate>Fri, 15 Sep 2023 10:56:09 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/09/230915105609.htm</guid>
+    </item>
+    <item>
+      <title>Verbal nonsense reveals limitations of AI chatbots</title>
+      <link>https://www.sciencedaily.com/releases/2023/09/230914114704.htm</link>
+      <description>The era of artificial-intelligence chatbots that seem to understand and use language the way we humans do has begun. Under the hood, these chatbots use large language models, a particular kind of neural network. But a new study shows that large language models remain vulnerable to mistaking nonsense for natural language. To a team of researchers, it's a flaw that might point toward ways to improve chatbot performance and help reveal how humans process language.</description>
+      <pubDate>Thu, 14 Sep 2023 11:47:04 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/09/230914114704.htm</guid>
+    </item>
+    <item>
+      <title>Evolution wired human brains to act like supercomputers</title>
+      <link>https://www.sciencedaily.com/releases/2023/09/230914103332.htm</link>
+      <description>Scientists have confirmed that human brains are naturally wired to perform advanced calculations, much like a high-powered computer, to make sense of the world through a process known as Bayesian inference.</description>
+      <pubDate>Thu, 14 Sep 2023 10:33:32 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/09/230914103332.htm</guid>
+    </item>
+    <item>
+      <title>Ecology and artificial intelligence: Stronger together</title>
+      <link>https://www.sciencedaily.com/releases/2023/09/230911191010.htm</link>
+      <description>Many of today's artificial intelligence systems loosely mimic the human brain. In a new paper, researchers suggest that another branch of biology -- ecology -- could inspire a whole new generation of AI to be more powerful, resilient, and socially responsible. The paper argues for a synergy between AI and ecology that could both strengthen AI and help to solve complex global challenges, such as disease outbreaks, loss of biodiversity, and climate change impacts.</description>
+      <pubDate>Mon, 11 Sep 2023 19:10:10 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/09/230911191010.htm</guid>
+    </item>
+    <item>
+      <title>'Brainless' robot can navigate complex obstacles</title>
+      <link>https://www.sciencedaily.com/releases/2023/09/230908141959.htm</link>
+      <description>Researchers who created a soft robot that could navigate simple mazes without human or computer direction have now built on that work, creating a 'brainless' soft robot that can navigate more complex and dynamic environments.</description>
+      <pubDate>Fri, 08 Sep 2023 14:19:59 EDT</pubDate>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2023/09/230908141959.htm</guid>
+    </item>
+  </channel>
+</rss>

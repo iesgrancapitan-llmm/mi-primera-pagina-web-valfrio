@@ -1,9 +1,41 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss>
   <channel>
+    <image>
+      <url>./IA.webp</url>
+      <title>IA </title>
+      <link></link>
+    </image>
+    <skipDays>
+      <day>Saturday</day>
+      <day>Sunday</day>
+    </skipDays>
+    <skipHours>
+      <hour>6</hour>
+      <hour>7</hour>
+      <hour>8</hour>
+      <hour>9</hour>
+      <hour>10</hour>
+      <hour>11</hour>
+      <hour>12</hour>
+      <hour>13</hour>
+      <hour>14</hour>
+      <hour>15</hour>
+      <hour>16</hour>
+      <hour>17</hour>
+      <hour>18</hour>
+      <hour>19</hour>
+      <hour>20</hour>
+      <hour>21</hour>
+      <hour>22</hour>
+      <hour>23</hour>
+    </skipHours>
     <title>
       Noticias sobre inteligencia artificial y otras tareas sobre lenguajes de marcas
      </title>
+    <language>es</language>
+    <webMaster>samaim57m@iesbi.es</webMaster>
+    <category>IA, enseñanza, Developper</category>
     <link>
         https://shiny-carnival-wo5619l.pages.github.io/
       </link>
@@ -36,16 +68,28 @@
     </item>
     <item>
       <title>
-        Mejores inteligencias artificiales para el desarrollo
-     </title>
+      Mejores inteligencias artificiales para el desarrollo
+      </title>
       <link>
-        https://www.unite.ai/es/mejores-generadores-de-c%C3%B3digo-ai/
+      https://www.unite.ai/es/mejores-generadores-de-c%C3%B3digo-ai/
       </link>
       <description>
-        Desde su llegada la IA ha estado revolucionando todos los ambitos por los que es aplicada. Como podemos imaginar, el
-        desarrollo no es una excepción. Debido a esto muchas IA han ido adaptandose a a las necesidades de los desarrolladores.
-        Por eso hoy os traemos 10 IA usadas para el desarrollo. 
+      Desde su llegada la IA ha estado revolucionando todos los ambitos por los que es aplicada. Como podemos imaginar, el
+      desarrollo no es una excepción. Debido a esto muchas IA han ido adaptandose a a las necesidades de los desarrolladores.
+      Por eso hoy os traemos 10 IA usadas para el desarrollo. 
       </description>
+    </item>
+    <item>
+      <title>
+      Sacan la nueva IA de Google para el desarrollo
+   </title>
+      <link>
+      https://idx.dev/
+    </link>
+      <description>
+      Después de un largo desarrollo, google desarrolla una IA para el desarrollo full stack. Esta inclurá varios de los lenguajes más populares junto con sus frmaworks. 
+      La IA geenrativa ayudará al desarrollo agilizando el proceso de escritura y revisión del código.  Más información en el link
+    </description>
     </item>
   </channel>
 </rss>

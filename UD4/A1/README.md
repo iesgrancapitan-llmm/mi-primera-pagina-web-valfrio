@@ -1,4 +1,7 @@
 # Tarea A1
+Mi feedly:
+
+![Mi feed de feedly](Mifeed.png)
 ## RSS 
 Podemos ver que el documento RSS cumple la validación:
 

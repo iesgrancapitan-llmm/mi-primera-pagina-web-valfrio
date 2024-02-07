@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<rss>
+<rss version="2.0">
   <channel>
     <image>
-      <url>./IA.webp</url>
+      <url>https://code.intef.es/wp-content/uploads/2023/07/cerebro.png</url>
       <title>IA </title>
-      <link></link>
+      <link>https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-valfrio/</link>
     </image>
     <skipDays>
       <day>Saturday</day>
@@ -34,7 +34,7 @@
       Noticias sobre inteligencia artificial y otras tareas sobre lenguajes de marcas
      </title>
     <language>es</language>
-    <webMaster>samaim57m@iesbi.es</webMaster>
+    <webMaster>salvador.jose.martinez.jimenez@gmail.com</webMaster>
     <category>IA, enseñanza, Developper</category>
     <link>
         https://shiny-carnival-wo5619l.pages.github.io/

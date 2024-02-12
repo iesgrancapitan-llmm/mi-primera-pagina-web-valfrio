@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE coches [
+    <!ELEMENT coches (coche+)>
+    <!ELEMENT coche (marca, modelo, puertas, color, precio)>
+    <!ATTLIST coche matricula CDATA #REQUIRED>
+    <!ELEMENT marca (#PCDATA)>
+    <!ELEMENT modelo (#PCDATA)>
+    <!ELEMENT puertas (#PCDATA)>
+    <!ELEMENT color (#PCDATA)>
+    <!ELEMENT precio (#PCDATA)>
+    <!ATTLIST precio venta CDATA #REQUIRED>
+]>
+
+<coches>
+    <coche matricula="8084GTR">
+        <marca>Ford</marca>
+        <modelo>Fiesta</modelo>
+        <puertas>5</puertas>
+        <color>Azul</color>
+        <precio venta="nuevo">12000</precio>
+    </coche>
+    <coche matricula="3221RLS">
+        <marca>Ford</marca>
+        <modelo>Focus</modelo>
+        <puertas>5</puertas>
+        <color>Negro</color>
+        <precio venta="seminuevo">5000</precio>
+    </coche>
+</coches>

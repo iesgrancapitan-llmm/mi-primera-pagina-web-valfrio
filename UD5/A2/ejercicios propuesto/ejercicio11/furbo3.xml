@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE partidos[
+<!ELEMENT partidos (equipo-local, equipo-visitante)>
+<!ELEMENT equipo-local EMPTY>
+<!ELEMENT equipo-visitante EMPTY>
+<!ATTLIST equipo-local nombre CDATA (#REQUIRED)>
+<!ATTLIST equipo-visitante nombre CDATA (#REQUIRED)>
+<!ATTLIST equipo-local goles CDATA (#REQUIRED)>
+<!ATTLIST equipo-visitante goles CDATA (#REQUIRED)>
+]>
+
+<partidos>
+    <equipo-local goles="4" nombre="Water de Munich"/>
+    <equipo-visitante goles="2" nombre="Esteaua es del grifo"/>
+</partidos>

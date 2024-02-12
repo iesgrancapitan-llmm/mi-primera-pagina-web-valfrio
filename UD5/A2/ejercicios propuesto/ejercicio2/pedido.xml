@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedidos>
+    <pedido>
+        <destinatario>Juan Delgado Martínez</destinatario>
+        <objeto>bicicleta A2023</objeto>
+        <fecha-entrega>19-5-2000</fecha-entrega>
+        <calle>Barco</calle>
+        <numero>4</numero>
+        <piso>tercero</piso>
+        <letra>A</letra>
+    </pedido>
+</pedidos>

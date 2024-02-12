@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arboles>
+    <arbol>
+        <nombre-cientifico>Acer monspessulanum</nombre-cientifico>
+        <nombre-comun>Arce de Montpellier</nombre-comun>
+        <nombre-comun>Arce menor</nombre-comun>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura unidad="metros">De 6 a 10</altura>
+        <estructura>
+            <copa>esférica</copa>
+            <tronco>Tronco principal recto con bifurcaciones</tronco>
+            <ramaje>Ramaje colgante</ramaje>
+        </estructura>
+        <color estacion="otoño">
+            <haz>verde brillante</haz>
+            <enves>verde blanquecino</enves>
+        </color>
+        <resistencia-heladas tope="-15">Heladas fuertes</resistencia-heladas>
+    </arbol>
+    <arbol>
+        <nombre-cientifico>Olea europea</nombre-cientifico>
+        <nombre-comun>Olivo</nombre-comun>
+        <vegetacion>Perenne</vegetacion>
+        <altura unidad="metros">De 8 a 15</altura>
+        <estructura>
+            <copa>irregular</copa>
+            <tronco>Tronco principal irregular con bifurcaciones</tronco>
+            <ramaje>tortuoso</ramaje>
+        </estructura>
+        <color estacion="primavera">
+            <haz>verde oscuro</haz>
+            <enves>verde plateado</enves>
+        </color>
+        <resistencia-heladas tope="-10">Heladas medias</resistencia-heladas>
+    </arbol>
+    <arbol>
+        <nombre-cientifico>Platanus orientalis</nombre-cientifico>
+        <nombre-comun>Platano</nombre-comun>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura unidad="metros">20 a 25</altura>
+        <estructura>
+            <copa>ovoidal</copa>
+            <tronco>Tronco principal recto</tronco>
+            <ramaje>Ramaje expandido</ramaje>
+        </estructura>
+        <color estacion="primavera">
+            <haz>verde medio</haz>
+            <enves>verde claro</enves>
+        </color>
+        <color estacion="otoño">Ocre</color>
+        <resistencia-heladas tope="-20">Heladas fuertes</resistencia-heladas>
+    </arbol>
+    <arbol>
+        <nombre-cientifico>Quercus ilex</nombre-cientifico>
+        <nombre-comun>Encina</nombre-comun>
+        <vegetacion>Perenne</vegetacion>
+        <altura unidad="metros">En torno a 25</altura>
+        <estructura>
+            <copa>esférica</copa>
+            <copa>elíptica irregular</copa>
+            <tronco>Tronco principal recto</tronco>
+            <ramaje>Ramaje tortuoso</ramaje>
+        </estructura>
+        <color estacion="primavera">
+            <hojas edad="jovenes">Plateado</hojas>
+            <hojas edad="antiguas">verde oscuro</hojas>
+            <enves>plateado</enves>
+        </color>
+        <resistencia-heladas tope="-15">Heladas fuertes</resistencia-heladas>
+    </arbol>
+</arboles>

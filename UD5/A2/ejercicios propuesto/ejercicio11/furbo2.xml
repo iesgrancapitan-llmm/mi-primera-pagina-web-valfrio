@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE partidos[
+<!ELEMENT partidos (equipo-local, equipo-visitante)>
+<!ELEMENT equipo-local (nombre)>
+<!ELEMENT equipo-visitante (nombre)>
+<!ELEMENT nombre (#PCDATA)>
+<!ATTLIST equipo-visitante goles CDATA (#REQUIRED)>
+<!ATTLIST equipo-local goles CDATA (#REQUIRED)>
+]>
+
+<partidos>
+    <equipo-local goles="3">
+        <nombre>Vodka Juniors</nombre>
+    </equipo-local>
+    <equipo-visitante goles="3">
+        <nombre>Sparta da Risa</nombre>
+    </equipo-visitante>
+</partidos>

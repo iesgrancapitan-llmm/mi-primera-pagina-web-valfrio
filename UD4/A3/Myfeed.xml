@@ -1,54 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"
-    xml:lang="es"
-    xml:base="">
+  xml:lang="es"
+  xml:base="">
+  <id>urn:uuid:7f6a400c-b934-11ee-baab-69960a9b2b48</id>
+  <title>
+    Noticias sobre inteligencia artificial y otras tareas sobre lenguajes de marcas
+  </title>
+  <author>
+    <name>salvador</name>
+  </author>
+  <link href="https://shiny-carnival-wo5619l.pages.github.io/" rel="self"/>
+  <updated>2020-02-12T10:00:00-05:00</updated>
+  <category term="IA" />
+  <rights>Licenciqa GPL</rights>
 
+  <entry>
+    <id>urn:uuid:6f6a400c-b934-11ee-baab-69960a9b2b48</id>
+    <title>
+      Reglamento de la UE sobre inteligencia artificial.
+    </title>
+    <author>
+      <name>salvador</name>
+    </author>
+    <link rel="alternate"
+      href="https://portal.mineco.gob.es/es-es/digitalizacionIA/sandbox-IA/Documents/20220919_Resumen_detallado_Reglamento_IA.pdf"/>
+    <updated>2021-02-12T10:00:00-05:00</updated>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7f6c400c-b934-11ee-baab-69960a9b2b48</id>
+    <title>
+      Curso sobre IA generativa impartido en Google Cloud
+    </title>
+    <author>
+      <name>salvador</name>
+    </author>
+    <link rel="alternate" href="https://www.cloudskillsboost.google/course_templates/536?locale=es"/>
+    <updated>2022-02-12T10:00:00-05:00</updated>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7f6b400c-b934-11ee-baab-69960a9b2b48</id>
+    <title>
+      Conoce un poquito más del autor de este feed.
+    </title>
+    <author>
+      <name>salvador</name>
+    </author>
+    <link rel="alternate"
+      href="https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-valfrio/UD2/A1/lalecturaymivida.html"/>
+    <updated>2024-02-12T10:00:00-05:00</updated>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7f5a400c-b934-11ee-baab-69960a9b2b48</id>
     <title>
       Noticias sobre inteligencia artificial y otras tareas sobre lenguajes de marcas
     </title>
-    <author><name>salvador</name> jose martinez jimenez</author>
-    <link href="https://shiny-carnival-wo5619l.pages.github.io/">
-    </link>
-    <updated>2024-02-12T10:00:00-05:00</updated>
-    <category>IA, enseñanza, Developper</category>
-    <rights>Licenciqa GPL</rights>
-
-    <entry>
-      <title>
-        Reglamento de la UE sobre inteligencia artificial.
-      </title>
-      <author><name>salvador</name>jose martinez jimenez</author>
-      <link href="https://portal.mineco.gob.es/es-es/digitalizacionIA/sandbox-IA/Documents/20220919_Resumen_detallado_Reglamento_IA.pdf" >
-      </link>
-      <updated>2024-02-12T10:00:00-05:00</updated>
-    </entry>
-
-    <entry>
-      <title>
-        Curso sobre IA generativa impartido en Google Cloud
-      </title>
-      <author><name>salvador</name> jose martinez jimenez</author>
-      <link href="https://www.cloudskillsboost.google/course_templates/536?locale=es"></link>
-      <updated>2024-02-12T10:00:00-05:00</updated>
-    </entry>
-
-    <entry>
-      <title>
-        Conoce un poquito más del autor de este feed.
-      </title>
-      <author><name>salvador</name> jose martinez jimenez</author>
-      <link href="https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-valfrio/UD2/A1/lalecturaymivida.html">
-      </link>
-      <updated>2024-02-12T10:00:00-05:00</updated>
-    </entry>
-
-    <entry>
-      <title>
-        Noticias sobre inteligencia artificial y otras tareas sobre lenguajes de marcas
-      </title>
-      <author><name>salvador</name> jose martinez jimenez</author>
-      <link rel="enclosure" type="audio/mpeg" href="https://es.wikipedia.org/wiki/Archivo:Ikusgela-Adimen_artifiziala.webm">
-      </link>
-      <updated>2024-02-12T10:00:00-05:00</updated>
-    </entry>
+    <author>
+      <name>salvador</name>
+    </author>
+    <link rel="enclosure" type="audio/mpeg"
+      href="https://es.wikipedia.org/wiki/Archivo:Ikusgela-Adimen_artifiziala.webm"/>
+    <updated>2024-01-12T10:00:00-05:00</updated>
+  </entry>
 </feed>

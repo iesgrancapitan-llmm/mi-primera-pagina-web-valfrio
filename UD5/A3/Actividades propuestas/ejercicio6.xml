@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Ejercicio6.xsd"?>
+<personas>
+    <persona fechanacimiento="12-08-1998">
+        <nombre>Salvador</nombre>
+        <apellidos>Martinez Jimenez</apellidos>
+        <dni>67574132-a</dni>
+        <descripcion>Estudiante del primer curso del desarrollo de aplicaciones web</descripcion>
+        <forma_pago tipopago="tarjeta"></forma_pago>
+    </persona>
+    <persona fechanacimiento="21-09-2000">
+        <nombre>Ines</nombre>
+        <apellidos>Caballero Segarra</apellidos>
+        <dni>81243123-G</dni>
+        <descripcion>Opositora del BIR</descripcion>
+        <forma_pago tipopago="transferencia"></forma_pago>
+    </persona>      
+</personas> 

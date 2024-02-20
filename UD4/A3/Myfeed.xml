@@ -1,46 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"
   xml:lang="es"
-  xml:base="">
+  xml:base="https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-valfrio/">
   <id>urn:uuid:7f6a400c-b934-11ee-baab-69960a9b2b48</id>
   <title>
-    Noticias sobre inteligencia artificial y otras tareas sobre lenguajes de marcas
+    Noticias sobre inteligencia artificial y sobre mis cositas.
   </title>
   <author>
     <name>salvador</name>
   </author>
-  <link href="https://shiny-carnival-wo5619l.pages.github.io/" rel="self"/>
-  <updated>2020-02-12T10:00:00-05:00</updated>
+  <link href="https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-valfrio/" rel="self" />
+  <updated>2023-11-19T22:50:00Z</updated>
   <category term="IA" />
-  <rights>Licenciqa GPL</rights>
+  <rights>GPL</rights>
 
   <entry>
-    <id>urn:uuid:6f6a400c-b934-11ee-baab-69960a9b2b48</id>
+    <id>urn:uuid:6f6a400c-b934-11ee-baab-69760a9b2b48</id>
     <title>
       Reglamento de la UE sobre inteligencia artificial.
     </title>
     <author>
-      <name>salvador</name>
+      <name>UE</name>
     </author>
+
+    <content>Reglamente de la UE sobre IA</content>
     <link rel="alternate"
-      href="https://portal.mineco.gob.es/es-es/digitalizacionIA/sandbox-IA/Documents/20220919_Resumen_detallado_Reglamento_IA.pdf"/>
-    <updated>2021-02-12T10:00:00-05:00</updated>
+      href="https://portal.mineco.gob.es/es-es/digitalizacionIA/sandbox-IA/Documents/20220919_Resumen_detallado_Reglamento_IA.pdf" />
+    <updated>2023-03-12T21:47:00Z</updated>
   </entry>
 
   <entry>
-    <id>urn:uuid:7f6c400c-b934-11ee-baab-69960a9b2b48</id>
+    <id>urn:uuid:7f6c400c-b934-11ee-baab-68960a9b2b48</id>
     <title>
       Curso sobre IA generativa impartido en Google Cloud
     </title>
     <author>
-      <name>salvador</name>
+      <name>Google</name>
     </author>
-    <link rel="alternate" href="https://www.cloudskillsboost.google/course_templates/536?locale=es"/>
-    <updated>2022-02-12T10:00:00-05:00</updated>
+
+    <content>https://www.cloudskillsboost.google/course_templates/536?locale=es</content>
+    <link rel="alternate" href="https://www.cloudskillsboost.google/course_templates/536?locale=es" />
+    <updated>2024-02-20T12:00:00Z</updated>
   </entry>
 
   <entry>
-    <id>urn:uuid:7f6b400c-b934-11ee-baab-69960a9b2b48</id>
+    <id>urn:uuid:7f6b400c-b934-11ee-baab-60960a9b2b48</id>
     <title>
       Conoce un poquito más del autor de este feed.
     </title>
@@ -48,20 +52,28 @@
       <name>salvador</name>
     </author>
     <link rel="alternate"
-      href="https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-valfrio/UD2/A1/lalecturaymivida.html"/>
-    <updated>2024-02-12T10:00:00-05:00</updated>
+      href="https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-valfrio/UD2/A1/lalecturaymivida.html" />
+    <updated>2023-08-12T21:47:00Z</updated>
+
+    <source>
+      <title>Mi primera página web</title>
+      <link href="https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-valfrio/" />
+    </source>
+    <content type="html">Página web</content>
   </entry>
 
   <entry>
-    <id>urn:uuid:7f5a400c-b934-11ee-baab-69960a9b2b48</id>
+    <id>urn:uuid:7f5a400c-b934-11ee-baab-69160a9b2b48</id>
     <title>
-      Noticias sobre inteligencia artificial y otras tareas sobre lenguajes de marcas
+      nvidia gana la batlla de la inteligencia artificial
     </title>
-    <author>
-      <name>salvador</name>
+    <author><name>DotCSV</name>
     </author>
     <link rel="enclosure" type="audio/mpeg"
-      href="https://es.wikipedia.org/wiki/Archivo:Ikusgela-Adimen_artifiziala.webm"/>
-    <updated>2024-01-12T10:00:00-05:00</updated>
+      href="https://es.wikipedia.org/wiki/Archivo:Ikusgela-Adimen_artifiziala.webm" />
+
+    <updated>2023-08-12T22:47:00Z</updated>
+    <content>
+      https://portal.mineco.gob.es/es-es/digitalizacionIA/sandbox-IA/Documents/20220919_Resumen_detallado_Reglamento_IA.pdf</content>
   </entry>
 </feed>

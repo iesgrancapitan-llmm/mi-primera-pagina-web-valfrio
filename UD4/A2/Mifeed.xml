@@ -32,64 +32,94 @@
     </skipHours>
     <title>
       Noticias sobre inteligencia artificial y otras tareas sobre lenguajes de marcas
-     </title>
+    </title>
     <language>es</language>
-    <webMaster>salvador.jose.martinez.jimenez@gmail.com</webMaster>
+    <webMaster>salvadorjosemartinezjimenez@gmail.com</webMaster>
     <category>IA, enseñanza, Developper</category>
     <link>
-        https://shiny-carnival-wo5619l.pages.github.io/
-      </link>
+      https://shiny-carnival-wo5619l.pages.github.io/
+    </link>
     <description>
-        Estudiante de primero de DAW que sube a esta página web sus distintas tareas relacionadas con diversos temas.
-      </description>
+      Estudiante de primero de DAW que sube a esta página web sus distintas tareas relacionadas con
+      diversos temas.
+    </description>
     <item>
+      <enclosure
+        url="https://news.microsoft.com/wp-content/uploads/prod/sites/41/2023/01/RAI_blog-2023Jan_hero_1400x788-960x640.jpg"
+        length="3000" type="image/jpg" />
       <title>
         Curso sobre IA generativa impartido en Google Cloud
-     </title>
+      </title>
       <link>
         https://www.cloudskillsboost.google/course_templates/536?locale=es
       </link>
       <description>
-        Google Cloud Skill Boost provee un curso básico sobre inteligencía artificial que nos ayuda a iniciarnos 
+        Google Cloud Skill Boost provee un curso básico sobre inteligencía artificial que nos ayuda
+        a iniciarnos
         en el tema
       </description>
+      <source url="https://www.cloudskillsboost.google/course_templates/536?locale=es">Link al curso</source>
+      <pubDate>Fri, 5 Jan 2024 17:30:00 GMT</pubDate>
     </item>
     <item>
+      <enclosure
+        url="https://www.mundodeportivo.com/urbantecno/hero/2023/03/imagen-creada-por-ia-de-un-robot-con-un-cerebro-digital.jpg?width=1200"
+        length="3000" type="image/jpg" />
       <title>
         Como funciona y que es Micorsoft Copilot
-     </title>
+      </title>
       <link>
         https://www.xataka.com/basics/microsoft-copilot-que-como-funciona-este-chat-inteligencia-artificial
       </link>
       <description>
-        El sistema de inteligencia artificial de Microsoft y OpenAI Copilot es una novedosa creación que está controlada por el chat. 
-        En este artículo te explicaremos que es exactamente y como funciona esta alternativa a ChatGPT
+        El sistema de inteligencia artificial de Microsoft y OpenAI Copilot es una novedosa creación
+        que está controlada por el chat.
+        En este artículo te explicaremos que es exactamente y como funciona esta alternativa a
+        ChatGPT
       </description>
+      <source url="https://www.mundodeportivo.com/urbantecno/hero/2023/03/imagen-creada-por-ia-de-un-robot-con-un-cerebro-digital.jpg?width=1200">Link al articulo</source>
+      <pubDate>Thu, 18 Jan 2024 14:30:00 GMT</pubDate>
     </item>
     <item>
+      <enclosure
+        url="https://s1.eestatic.com/2020/08/19/invertia/empresas/energia/transicion_energetica-inteligencia_artificial-energia_514209961_158012153_1706x960.jpg"
+        length="3000" type="image/jpg" />
+
       <title>
-      Mejores inteligencias artificiales para el desarrollo
+        Mejores inteligencias artificiales para el desarrollo
       </title>
       <link>
-      https://www.unite.ai/es/mejores-generadores-de-c%C3%B3digo-ai/
+        https://www.unite.ai/es/mejores-generadores-de-c%C3%B3digo-ai/
       </link>
       <description>
-      Desde su llegada la IA ha estado revolucionando todos los ambitos por los que es aplicada. Como podemos imaginar, el
-      desarrollo no es una excepción. Debido a esto muchas IA han ido adaptandose a a las necesidades de los desarrolladores.
-      Por eso hoy os traemos 10 IA usadas para el desarrollo. 
+        Desde su llegada la IA ha estado revolucionando todos los ambitos por los que es aplicada.
+        Como podemos imaginar, el
+        desarrollo no es una excepción. Debido a esto muchas IA han ido adaptandose a a las
+        necesidades de los desarrolladores.
+        Por eso hoy os traemos 10 IA usadas para el desarrollo.
       </description>
+      <source url="https://www.unite.ai/es/mejores-generadores-de-c%C3%B3digo-ai/">Link al articulo</source>
+      <pubDate>Sun, 31 Dec 2023 11:30:00 GMT</pubDate>
     </item>
     <item>
+      <enclosure
+        url="https://phantom-marca-mx.unidadeditorial.es/ccd2e221e98d8d0e8290c71152ca82c0/resize/828/f/jpg/mx/assets/multimedia/imagenes/2023/05/24/16849640871959.jpg"
+        length="3000" type="image/jpg" />
+
       <title>
-      Sacan la nueva IA de Google para el desarrollo
-   </title>
+        Sacan la nueva IA de Google para el desarrollo
+      </title>
       <link>
-      https://idx.dev/
-    </link>
+        https://idx.dev/
+      </link>
       <description>
-      Después de un largo desarrollo, google desarrolla una IA para el desarrollo full stack. Esta inclurá varios de los lenguajes más populares junto con sus frmaworks. 
-      La IA geenrativa ayudará al desarrollo agilizando el proceso de escritura y revisión del código.  Más información en el link
-    </description>
+        Después de un largo desarrollo, google desarrolla una IA para el desarrollo full stack. Esta
+        inclurá varios de los lenguajes más populares junto con sus frameworks.
+        La IA geenrativa ayudará al desarrollo agilizando el proceso de escritura y revisión del
+        código. Más información en el link
+      </description>
+      <source url="https://idx.dev/">Link al articulo</source>
+      <pubDate>Sun, 28 Jan 2024 10:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

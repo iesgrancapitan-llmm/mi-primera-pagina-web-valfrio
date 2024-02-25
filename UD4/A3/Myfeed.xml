@@ -19,14 +19,20 @@
     <title>
       Reglamento de la UE sobre inteligencia artificial.
     </title>
+    <content type="image/png" src="./211632.png" />
+    <summary>PDF sobre la legislación de la unión europea sobre inteligencia artificial.</summary>
     <author>
       <name>UE</name>
     </author>
-
-    <content>Reglamente de la UE sobre IA</content>
-    <link rel="alternate"
+    <link rel="enclosure"
+      type="application/pdf"
+      hreflang="es"
       href="https://portal.mineco.gob.es/es-es/digitalizacionIA/sandbox-IA/Documents/20220919_Resumen_detallado_Reglamento_IA.pdf" />
     <updated>2023-03-12T21:47:00Z</updated>
+    <source>
+      <title>Ministerio de economía, comercio y empresa</title>
+      <link href="https://portal.mineco.gob.es/es-es/Paginas/index.aspx" />
+    </source>
   </entry>
 
   <entry>
@@ -34,13 +40,16 @@
     <title>
       Curso sobre IA generativa impartido en Google Cloud
     </title>
+    <summary>Curso gratuito de nivel básico sobre inteligencia artificial.</summary>
     <author>
       <name>Google</name>
     </author>
-
-    <content>https://www.cloudskillsboost.google/course_templates/536?locale=es</content>
     <link rel="alternate" href="https://www.cloudskillsboost.google/course_templates/536?locale=es" />
     <updated>2024-02-20T12:00:00Z</updated>
+    <source>
+      <title>Google</title>
+      <link href="https://www.cloudskillsboost.google/" />
+    </source>
   </entry>
 
   <entry>
@@ -51,29 +60,63 @@
     <author>
       <name>salvador</name>
     </author>
-    <link rel="alternate"
-      href="https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-valfrio/UD2/A1/lalecturaymivida.html" />
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>Desde que era pequeño mis padres siempre me dijeron que la lectura era uno <cite>los
+          mejores placeres de la vida</cite> . Por aquel entonces no lo entendía, hasta que llegó mi
+          21 cumpleaños.</p>
+        <p>Nunca había leído mucho, aunque es cierto que cuando algo me atrapa soy <b>muy</b>
+          obsesivo con ello. Los comics de mortadelo y filemón me atraparon, me leía al día 1 de los
+          tochos gordos de recopilaciones. Quitando eso, solo las lagrimas de shiva me atraparon de
+          esa forma. Todo lo demás que intente leer lo abandoné tarde o temprano.</p>
+        <p>Retomando lo de mi cumpleaños, mis amigos me celebraron una fiesta sorpresa y decidieron
+          hacerme un regalo. La opción que eligieron fue un libro llamado el <cite>camino de los
+          reyes</cite>. Este libro, escrito por <cite>Brandon Sanderson</cite>, me había llamado la
+          atención pero no me atrevía a empezarlo porque tenía 1400 páginas.</p>
+        <p>Ya que era un regalo, me atreví a empezarlo. Me atrapó desde el minuto 1, y me <mark>
+          obsesioné</mark> con él como me pasa con todas las cosas que me gustan de verdad. Lo
+          terminé en una semana y media. Después compré el siguiente de la saga, depués el
+          siguiente...Cuando me dí cuenta me había leido los 4 libros de 1400 páginas. Empecé otra
+          saga del mismo autor, leyendomela en poco tiempo. Adelanté a amigos que llevaban con esos
+          libro 1 año.</p>
+        <p>Me dí cuenta que la lectura me apasionaba, solamente había leído los libros que no eran.
+          Desde entonces soy un ávido lector (más de lo que mi presupuesto puede permitirse).
+        </p>
+        <p id="Último parrafo"> Aquí una tabla de mis sagas de libros favoritos.<br /> <!--Que
+            he terminado. -->
+              <pre>
+                  Título | La rueda del tiempo | El archivo de las tormentas | Nacidos de la bruma | Crónica del asesino de reyes
+                  ---------------------------------------------------------------------------------------------------------------
+                  Autor  | Robert Jordan       | Brandon Sanderson           | Brandon Sanderson   | Patrick Rothfuss
+              </pre>
+        </p>
+      </div>
+    </content>
     <updated>2023-08-12T21:47:00Z</updated>
 
     <source>
       <title>Mi primera página web</title>
       <link href="https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-valfrio/" />
     </source>
-    <content type="html">Página web</content>
   </entry>
 
   <entry>
     <id>urn:uuid:7f5a400c-b934-11ee-baab-69160a9b2b48</id>
     <title>
-      nvidia gana la batlla de la inteligencia artificial
+      Pertenendia a un equipo de trabajo
     </title>
-    <author><name>DotCSV</name>
+    <author>
+      <name>Desconocido</name>
     </author>
+    <summary>Ventajas de fomentar el sentimiento de pertenencia en el ambiente de trabajo.</summary>
     <link rel="enclosure" type="audio/mpeg"
-      href="https://es.wikipedia.org/wiki/Archivo:Ikusgela-Adimen_artifiziala.webm" />
-
+      title="Fomentar la pertenencia"
+      href="https://inper.mx/descargas/mp3/03_Pertenencia.mp3" />
     <updated>2023-08-12T22:47:00Z</updated>
-    <content>
-      https://portal.mineco.gob.es/es-es/digitalizacionIA/sandbox-IA/Documents/20220919_Resumen_detallado_Reglamento_IA.pdf</content>
+    <content type="image/png" src="../A2/1024px-Feed-icon.svg.png" />
+    <source>
+      <title>Gobierno de México</title>
+      <link href="https://www.gob.mx/salud/inper" />
+    </source>
   </entry>
 </feed>

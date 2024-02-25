@@ -74,10 +74,9 @@ Indica aquí la url de tu sitio web.
 ## Suscripción
 Utiliza el lector/agregador feedly para añadir el fichero RSS que has creado.
 
-# TODO
-
 Muestra una captura del contenido de la sindicación del contenido
 
+[Link a la captura del contenido sindicado y agregado al feed](sindicado.png)
 
 De interés:
 - https://datatracker.ietf.org/doc/html/rfc4287

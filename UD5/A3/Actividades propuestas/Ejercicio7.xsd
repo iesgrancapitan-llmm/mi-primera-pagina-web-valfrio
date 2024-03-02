@@ -1,26 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <xs:element name="personas">
-        <xs:complexType>
-            <xs:sequence>
-                <xs:element name="persona" maxOccurs="unbounded">
-                    <xs:complexType>
-                        <xs:sequence>
-                            <xs:element name="nombre" type="xs:string"/>
-                            <xs:element name="apellidos" type="xs:string"/>
-                            <xs:element name="dni" type="xs:string"/>
-                            <xs:element name="descripcion" type="xs:string"/>
-                            <xs:element name="forma_pago" minOccurs="1" maxOccurs="unbounded">
-                                <xs:complexType>
-                                    <xs:attribute name="tipopago" use="required"></xs:attribute>
-                                </xs:complexType>
-                            </xs:element>
-                            <xs:element name="nota" type="xs:decimal"></xs:element>
-                        </xs:sequence>
-                        <xs:attribute name="fechanacimiento" use="optional"/>
-                    </xs:complexType>
-                </xs:element>
-            </xs:sequence>
-        </xs:complexType>
-    </xs:element>
+
+    <xs:element name="nombre" type="xs:string"></xs:element>
+    <xs:element name="apellidos" type="xs:string"></xs:element>
+    <xs:element name="dni" type="xs:string"></xs:element>
+    <xs:element name="descripcion" type="xs:string"></xs:element>
+    <xs:element name="forma_pago"></xs:element>
+    <xs:element name="nota" type="notaTipo"></xs:element>
+
+    <xs:simpleType name="notaTipo">
+        <xs:restriction base="xs:integer">
+            <xs:maxInclusive value="10"></xs:maxInclusive>
+            <xs:minInclusive value="1"></xs:minInclusive>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="personaTipo">
+        <xs:sequence>
+            <xs:element ref="nombre"></xs:element>
+            <xs:element ref="apellidos"></xs:element>
+            <xs:element ref="dni"></xs:element>
+            <xs:element ref="descripcion"></xs:element>
+            <xs:element ref="forma_pago"></xs:element>
+            <xs:element ref="nota"></xs:element>
+        </xs:sequence>
+        <xs:attribute ref="fechanacimiento"></xs:attribute>
+    </xs:complexType>
+
+    <xs:complexType name="personasTipo">
+        <xs:sequence>
+            <xs:element ref="persona" maxOccurs="unbounded"></xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:attribute name="fechanacimiento" type="xs:string"></xs:attribute>
+
+    <xs:element name="persona" type="personaTipo"></xs:element>
+    <xs:element name="personas" type="personasTipo"></xs:element>
 </xs:schema>

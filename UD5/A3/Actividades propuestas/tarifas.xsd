@@ -9,10 +9,11 @@
             </xs:sequence>
         </xs:complexType>
     </xs:element>
+    
     <xs:simpleType name="precioType">
         <xs:restriction base="xs:decimal">
-            <xs:totalDigits value="5"/>
-            <xs:fractionDigits value="2"/>
+            <xs:totalDigits value="5"></xs:totalDigits>
+            <xs:fractionDigits value="2"></xs:fractionDigits>
         </xs:restriction>
     </xs:simpleType>
 </xs:schema>

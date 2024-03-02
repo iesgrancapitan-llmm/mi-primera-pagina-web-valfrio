@@ -1,32 +1,50 @@
 # UD5 A3. Validación. XSD (XML Schema Definition)
 
+## Factura
 
-XSD (XML Schema Definition) es un lenguaje de esquema utilizado para describir la estructura y las restricciones de los contenidos de los documentos XML de una forma muy precisa, más allá de las normas sintácticas impuestas por el propio lenguaje XML. Se consigue así una percepción del tipo de documento con un nivel alto de abstracción.
-Los esquemas se guardan en archivos con extensión .xsd. Fue desarrollado por la W3C, y alcanzó el nivel de recomendación en mayo de 2001. 
+[XML](./Factura/factura.xml)
 
-Surge como mejora a la validación con DTD, para entre otras cosas, permitir un tipo de datos más específico, y no sólo de texto. Las ventajas de los esquemas XML frente a los DTDs:
-- usan sintaxis XML
-- soportan tipos de datos
-- son extensibles
-- soportan espacios de nombres
-- tienen mayor poder de expresión
-- permiten concretar con precisión la cardinalidad de un elemento
-- tanto los elementos terminales como  los atributos de los elementos tienen asignado un tipo de datos
+[XSD](./Factura/factura.xsd)
 
-En un XSD los elementos que se definen pueden ser:
-- elementos simples: no poseen ni atributos ni otros elementos. Solo contienen datos.
-- elementos compuestos:  incluye atributos u otros elementos
+## Actividades propuestas
 
+### ejercicio 1
+[XML](./Actividades%20propuestas/ejercicio1.xml)
 
-Visualiza este [vídeo](https://youtu.be/1BjmZHRHDv0?t=111) y entrega los siguientes [ejercicios](./ud7_RA4_ActividadesXSD.pdf) debidamente organizados y referenciados en este README.md. Entrega también la [factura mediante clonación y definición de tipos personalizados](./Actividad_XSD_Factura.pdf).
+[XSD](./Actividades%20propuestas/Ejercicio1.xsd)
+### ejercicio 2
+[XML](./Actividades%20propuestas/ejercicio2.xml)
 
+[XSD](./Actividades%20propuestas/Ejercicio2.xsd)
+### ejercicio 3
+[XML](./Actividades%20propuestas/ejercicio3.xml)
 
-De interés:
-- https://www.freeformatter.com/xsd-generator.html
-- https://youtu.be/m1dmbNjbeZA
-- https://youtu.be/ws3SD_VM0VA?list=PLoqthyRZDeWBactZZ1lM6cMjJjNgsh7u2
-- https://youtu.be/NMyWWEEbJ9w
+[XSD](./Actividades%20propuestas/Ejercicio3.xsd)
+### ejercicio 4
+[XML](./Actividades%20propuestas/ejercicio4.xml)
 
+[XSD](./Actividades%20propuestas/Ejercicio4.xsd)
+### ejercicio 5
+[XML](./Actividades%20propuestas/ejercicio5.xml)
 
+[XSD](./Actividades%20propuestas/Ejercicio5.xsd)
+### ejercicio 6
+[XML](./Actividades%20propuestas/ejercicio6.xml)
 
+[XSD](./Actividades%20propuestas/Ejercicio6.xsd)
+### ejercicio 7
+[XML](./Actividades%20propuestas/ejercicio7.xml)
 
+[XSD](./Actividades%20propuestas/Ejercicio7.xsd)
+### ejercicio 8
+[XML](./Actividades%20propuestas/ejercicio8.xml)
+
+[XSD](./Actividades%20propuestas/Ejercicio8.xsd)
+### ejercicio 9
+[XML](./Actividades%20propuestas/ejercicio9.xml)
+
+[XSD](./Actividades%20propuestas/tarifas.xsd)
+### ejercicio 10
+[XML](./Actividades%20propuestas/ejercicio10.xml)
+
+[XSD](./Actividades%20propuestas/Ejercicio10.xsd)

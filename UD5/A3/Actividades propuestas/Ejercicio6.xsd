@@ -6,17 +6,24 @@
                 <xs:element name="persona" maxOccurs="unbounded">
                     <xs:complexType>
                         <xs:sequence>
-                            <xs:element name="nombre" type="xs:string"/>
-                            <xs:element name="apellidos" type="xs:string"/>
-                            <xs:element name="dni" type="xs:string"/>
-                            <xs:element name="descripcion" type="xs:string"/>
-                            <xs:element name="forma_pago" minOccurs="1" maxOccurs="unbounded">
+                            <xs:element name="nombre" type="xs:string"></xs:element>
+                            <xs:element name="apellidos" type="xs:string"></xs:element>
+                            <xs:element name="dni" type="xs:string"></xs:element>
+                            <xs:element name="descripcion" type="xs:string"></xs:element>
+                            <xs:element name="forma_pago">
                                 <xs:complexType>
-                                    <xs:attribute name="tipopago" use="required"></xs:attribute>
+                                    <xs:attribute name="tipopago" use="required">
+                                        <xs:simpleType>
+                                            <xs:restriction base="xs:string">
+                                                <xs:enumeration value="tarjeta"></xs:enumeration>
+                                                <xs:enumeration value="transferencia"></xs:enumeration>
+                                            </xs:restriction>
+                                        </xs:simpleType>
+                                    </xs:attribute>
                                 </xs:complexType>
                             </xs:element>
                         </xs:sequence>
-                        <xs:attribute name="fechanacimiento" use="optional"/>
+                        <xs:attribute name="fechanacimiento" type="xs:string" use="required"></xs:attribute>
                     </xs:complexType>
                 </xs:element>
             </xs:sequence>

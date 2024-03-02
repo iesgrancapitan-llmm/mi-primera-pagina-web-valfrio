@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-<xs:element name="examenes">
-    <xs:complexType>
+
+    <xs:element name="nombre" type="xs:string"></xs:element>
+    <xs:element name="nota" type="nota_tipo"></xs:element>
+
+    <xs:simpleType name="nota_tipo">
+        <xs:restriction base="xs:integer">
+            <xs:maxInclusive value="10"></xs:maxInclusive>
+            <xs:minInclusive value="1"></xs:minInclusive>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="examenesTipo">
         <xs:sequence>
-            <xs:element name="examen" maxOccurs="unbounded">
-                <xs:complexType>
-                    <xs:sequence>
-                        <xs:element name="nombre" type="xs:string"/>
-                        <xs:element name="nota" type="xs:decimal"/>
-                    </xs:sequence>
-                    <xs:attribute name="numero" type="xs:integer"></xs:attribute>
-                </xs:complexType>
-            </xs:element>
+            <xs:element ref="examen" maxOccurs="unbounded"></xs:element>
         </xs:sequence>
     </xs:complexType>
-</xs:element>
+
+    <xs:complexType name="examenTipo">
+        <xs:sequence>
+            <xs:element ref="nombre"></xs:element>
+            <xs:element ref="nota"></xs:element>
+        </xs:sequence>
+        <xs:attribute ref="numero"></xs:attribute>
+    </xs:complexType>
+
+    <xs:element name="examenes" type="examenesTipo"/>
+    <xs:element name="examen" type="examenTipo"/>
+
+    <xs:attribute name="numero" type="xs:integer"></xs:attribute>
 </xs:schema>

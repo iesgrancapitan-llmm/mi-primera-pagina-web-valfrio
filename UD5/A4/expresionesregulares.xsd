@@ -1,0 +1,87 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="regex" type="regexTipo"/>
+
+    <xs:complexType name="regexTipo">
+        <xs:sequence>
+            <xs:element ref="DNIs"/>
+            <xs:element ref="matriculas"/>
+            <xs:element ref="direcciones-mac"/>
+            <xs:element ref="direcciones-ip"/>
+            <xs:element ref="numeros-decimales"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:element name="DNIs" type="DNIsTipo"></xs:element>
+    <xs:element name="matriculas" type="matriculasTipo"></xs:element>
+    <xs:element name="direcciones-mac" type="direcciones-macTipo"></xs:element>
+    <xs:element name="direcciones-ip" type="direcciones-ipTipo"></xs:element>
+    <xs:element name="numeros-decimales" type="numeros-decimalesTipo"></xs:element>
+
+
+    <xs:complexType name="DNIsTipo">
+        <xs:sequence>
+            <xs:element ref="DNI" maxOccurs="unbounded"></xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="matriculasTipo">
+        <xs:sequence>
+            <xs:element ref="matricula" maxOccurs="unbounded"></xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="direcciones-macTipo">
+        <xs:sequence>
+            <xs:element ref="direccion-mac" maxOccurs="unbounded"></xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="direcciones-ipTipo">
+        <xs:sequence>
+            <xs:element ref="direccion-ip" maxOccurs="unbounded"></xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="numeros-decimalesTipo">
+        <xs:sequence>
+            <xs:element ref="numero-decimal" maxOccurs="unbounded"></xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+
+    <xs:element name="DNI" type="DNITipo"/>
+    <xs:element name="matricula" type="matriculaTipo"/>
+    <xs:element name="direccion-mac" type="direccion-macTipo"/>
+    <xs:element name="direccion-ip" type="direccion-ipTipo"/>
+    <xs:element name="numero-decimal" type="numero-decimalTipo"/>
+
+    <xs:simpleType name="DNITipo">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="\d{8}(\s|-)?[A-Z]|\d{8}(\s|-)?[a-z]"></xs:pattern>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="matriculaTipo">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="\d{4}\s[B-DF-HJ-NPR-Z]{3}"></xs:pattern>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="direccion-macTipo">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="(([A-Z]{2}(-|:)){2}[A-Z]\d(-|:)(\d{2}(-|:)){2}\d{2})|([A-Z]{5}\d{7})"></xs:pattern>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="direccion-ipTipo">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="(([0-9]|[1-9][0-9]|[1][0-9][0-9]|2[0-5][0-5])\.){3}([0-9]|[1-9][0-9]|[1][0-9][0-9]|2[0-5][0-5])"></xs:pattern>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="numero-decimalTipo">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="\d{1,}(\.|,|')\d{0,2}"></xs:pattern>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>

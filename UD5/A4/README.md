@@ -27,6 +27,10 @@ Debes generar las siguientes expresiones regulares:
 
 Para comprobarlas, escribe tanto el fichero .xml como el .xsd que las valide. Utiliza la clonación y definición de tipos personalizados.
 
+[Documento XML](./expresionesregulares.xml)
+
+[Documento XSD](./expresionesregulares.xsd)
+
 De interés:
 - https://www.abrirllave.com/xsd/restricciones.php
 - https://regexr.com/

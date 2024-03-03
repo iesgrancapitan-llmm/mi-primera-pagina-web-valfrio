@@ -1,0 +1,42 @@
+<?xml-model href="expresionesregulares.xsd"?>
+<regex>
+    <DNIs>
+        <DNI>12345678Z</DNI>
+        <DNI>12345678z</DNI>
+        <DNI>12345678 Z</DNI>
+        <DNI>12345678-Z</DNI>
+    </DNIs>
+    <matriculas>
+        <matricula>1234 BCD</matricula>
+        <matricula>5678 ZYX </matricula>
+        <matricula>1234 ABC</matricula>
+        <matricula>1234 QBC</matricula>
+        <matricula>1234 MNÑ</matricula>
+    </matriculas>
+    <direcciones-mac>
+        <direccion-mac>AB-CD-F1-23-45-67</direccion-mac>
+        <direccion-mac>AB:CD:F1:23:45:67</direccion-mac>
+        <direccion-mac>ABCDF1234567</direccion-mac>
+        <direccion-mac>AB:CDF1:23:45-67</direccion-mac>
+    </direcciones-mac>
+    <direcciones-ip>
+        <direccion-ip>0.0.0.0</direccion-ip>
+        <direccion-ip>14.255.1.2</direccion-ip>
+        <direccion-ip>09.1.2.3</direccion-ip>
+        <direccion-ip>1.260.4.5</direccion-ip>
+        <direccion-ip>09.6.5.4</direccion-ip>
+        <direccion-ip>1.2.3.011</direccion-ip>
+    </direcciones-ip>
+    <numeros-decimales>
+        <numero-decimal>11.33</numero-decimal>
+        <numero-decimal>12.4</numero-decimal>
+        <numero-decimal>1222222222222222.4</numero-decimal>
+        <numero-decimal>12,4</numero-decimal>
+        <numero-decimal>12'46</numero-decimal>
+        <numero-decimal>0.4</numero-decimal>
+        <numero-decimal>12.00</numero-decimal>
+        <numero-decimal>.4</numero-decimal>
+        <numero-decimal>124.555</numero-decimal>
+        <numero-decimal>11.9999x</numero-decimal>
+    </numeros-decimales>
+</regex>

@@ -106,7 +106,7 @@ El código:
 <!-- elemento raíz -->
 ```
 
-[Fcihero](./adjunto.xsd)
+[Fichero](./adjunto.xsd)
 
 6. Con respecto a la validación con XSD indica:
 - Un esquema es un documento *XML* al que se le coloca la extensión _xsd_ . Al ser un archivo XML tiene la estructura habitual de todo documento XML con la obligación de que el elemento _raiz_ se llame _schema_ .

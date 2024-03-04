@@ -1,0 +1,36 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    
+<!-- definición de elementos simples -->
+<xs:element name="nieto" type="nietoTipo"/>
+
+<!-- definición de atributos -->
+<xs:attribute name="atributo"/>
+
+<!-- definición de elementos  complejos -->
+<xs:element name="hijo" type="hijoTipo"/>
+
+<!-- definición de los tipos simples -->
+<xs:simpleType name="nietoTipo">
+    <xs:restriction base="xs:string">
+        <xs:pattern value="\D{20}"></xs:pattern>
+    </xs:restriction>
+</xs:simpleType>
+
+<!-- definición de los tipos complejos -->
+<xs:complexType name="elemento_raizTipo">
+    <xs:sequence>
+        <xs:element ref="hijo" maxOccurs="unbounded"/>
+    </xs:sequence>
+    <xs:attribute ref="atributo" use="required"/>
+</xs:complexType>
+
+<xs:complexType name="hijoTipo">
+    <xs:sequence>
+        <xs:element ref="nieto" maxOccurs="unbounded"/>
+    </xs:sequence>
+</xs:complexType>
+
+<!-- elemento raíz -->
+<xs:element name="elemento_raiz" type="elemento_raizTipo"/>
+
+</xs:schema>
